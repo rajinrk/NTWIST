@@ -7,7 +7,7 @@ export default function Home(){
     const navigate = useNavigate()
     return (
         <div className='home-container'>
-           <img src='https://businesspost.ng/wp-content/uploads/2022/11/industrializing-Africa.jpg' className='image'/>
+           <img src='https://thumbs.dreamstime.com/b/old-bethlehem-steel-factory-pennsylvania-one-time-was-second-largest-manufacturing-facility-30357542.jpg' className='image'/>
             <section className=' ntwist-container'>
                 <div className=' left'>
                     <h1 className='h1'>Data-Powered solutions for industrial Excellence</h1>
