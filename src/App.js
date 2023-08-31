@@ -10,6 +10,7 @@ import OilAndGas from './components/pages/oilAndGas';
 import AiSoftware from './components/pages/AiSoftware';
 import Blog from './components/pages/blog';
 import ContactUs from './components/pages/contactUs';
+import Footer from './components/footer';
 
 
 
@@ -29,6 +30,7 @@ function App() {
           <Route path='/blog' element={<Blog/>} />
           <Route path='/contactUs' element={<ContactUs/>} />
         </Routes>
+        <Footer/>
       </BrowserRouter>
     </div>
   );
