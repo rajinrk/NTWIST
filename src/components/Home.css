@@ -58,3 +58,16 @@ height:420px
     padding-left: 10px;
     box-sizing: border-box;
 }
+.topscroll{
+    height:50px;
+    width:50px;
+    background-color: rgb(29, 29, 182);
+    border-radius: 50%;
+    position: fixed;
+    bottom : 20px;
+    right:20px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
